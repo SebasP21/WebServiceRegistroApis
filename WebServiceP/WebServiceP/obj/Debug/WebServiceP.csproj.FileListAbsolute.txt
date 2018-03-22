@@ -1,0 +1,9 @@
+c:\users\super\documents\visual studio 2012\Projects\WebServiceP\WebServiceP\bin\Debug\WebServiceP.exe.config
+C:\Users\super\documents\visual studio 2012\Projects\WebServiceP\WebServiceP\obj\Debug\WebServiceP.csprojResolveAssemblyReference.cache
+C:\Users\super\documents\visual studio 2012\Projects\WebServiceP\WebServiceP\obj\Debug\WebServiceP.Form1.resources
+C:\Users\super\documents\visual studio 2012\Projects\WebServiceP\WebServiceP\obj\Debug\WebServiceP.Properties.Resources.resources
+C:\Users\super\documents\visual studio 2012\Projects\WebServiceP\WebServiceP\obj\Debug\WebServiceP.csproj.GenerateResource.Cache
+C:\Users\super\documents\visual studio 2012\Projects\WebServiceP\WebServiceP\bin\Debug\WebServiceP.exe
+C:\Users\super\documents\visual studio 2012\Projects\WebServiceP\WebServiceP\bin\Debug\WebServiceP.pdb
+C:\Users\super\documents\visual studio 2012\Projects\WebServiceP\WebServiceP\obj\Debug\WebServiceP.exe
+C:\Users\super\documents\visual studio 2012\Projects\WebServiceP\WebServiceP\obj\Debug\WebServiceP.pdb
